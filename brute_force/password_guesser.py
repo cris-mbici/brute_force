@@ -19,7 +19,7 @@ while True:
   #User selects whether they want to see the guesses or just the result
   while True:
     view_attempts = input("Would you like to see the guesses in real time?(y/n) ")
-    if view_attempts == 'y' or 'n':
+    if view_attempts in ['y', 'n']:
       break
     else:
       print("Please enter a valid input!")
