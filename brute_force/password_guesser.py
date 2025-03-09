@@ -75,7 +75,7 @@ while True:
   start_time = time.time()
 
   #We start by checking really common passwords, stored on a csv file that has common passwords or passwords from a data breach
-  with open("common_passwords.csv", "r", encoding="utf-8") as file:
+  with open("cleaned_passwords.csv", "r", encoding="utf-8") as file:
     reader = csv.reader(file)
    
     found = False
