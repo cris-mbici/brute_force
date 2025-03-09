@@ -19,7 +19,7 @@ while True:
   #User selects whether they want to see the guesses or just the result
   while True:
     view_attempts = input("Would you like to see the guesses in real time?(y/n) ")
-    if view_attempts in ['y', 'n']:
+    if view_attempts == 'y' or 'n':
       break
     else:
       print("Please enter a valid input!")
@@ -75,7 +75,7 @@ while True:
   start_time = time.time()
 
   #We start by checking really common passwords, stored on a csv file that has common passwords or passwords from a data breach
-  with open("common_pass.csv", "r") as file:
+  with open("common_passwords.csv", "r", encoding="utf-8") as file:
     reader = csv.reader(file)
    
     found = False
