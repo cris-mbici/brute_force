@@ -19,7 +19,7 @@
 ### 1. **Input Validation**
 - Ensuring user input is valid is crucial. For example, I initially wrote this condition incorrectly:
 ```python
-if view_attempts == 'y' or 'n':  # Not Correst
+if view_attempts == 'y' or 'n':  # Not Corresto
 ```
 This was always `True`. I corrected it to:
 ```python
