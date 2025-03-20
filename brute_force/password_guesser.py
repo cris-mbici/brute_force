@@ -1,7 +1,7 @@
 import string
 import itertools
 import time
-import csv
+import cs
 
 while True:
   #User selects target password + error handling for blank input
