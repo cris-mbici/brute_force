@@ -8,7 +8,7 @@
 ✅ Efficient character set filtering for faster brute force attempts  
 ✅ Real-time guess tracking (optional)  
 ✅ Adaptive progress updates for better user experience  
-✅ Built-in timer to measure the duration of each attempt
+✅ Built-in timer to measure the duration of each attemp
 
 ## Note:
 ❌ The program tends to break down when trying long passwords while viewing attempt.
