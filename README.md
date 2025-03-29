@@ -5,7 +5,7 @@
 - **Brute Force Attack:** Systematically generates and tests all possible character combinations until the correct password is found.
 
 ## Key Features  
-✅ Efficient character set filtering for faster brute force attempts   
+✅ Efficient character set filtering for faster brute force attempts
 ✅ Real-time guess tracking (optional)  
 ✅ Adaptive progress updates for better user experience  
 ✅ Built-in timer to measure the duration of each attempt
