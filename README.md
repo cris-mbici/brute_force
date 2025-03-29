@@ -4,7 +4,7 @@
 - **Dictionary Attack:** Quickly checks for common passwords from a `.csv` file.
 - **Brute Force Attack:** Systematically generates and tests all possible character combinations until the correct password is found.
 
-## Key Features
+## Key Features 
 ✅ Efficient character set filtering for faster brute force attempts  
 ✅ Real-time guess tracking (optional)  
 ✅ Adaptive progress updates for better user experience  
