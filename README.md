@@ -12,7 +12,7 @@
 
 ## Note:
 ❌ The program tends to break down when trying long passwords while viewing attempt.
-
+ 
 ---
 
 ## What I Learned
