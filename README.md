@@ -1,6 +1,6 @@
 # Password Cracker
 
-[Watch the demo](https://github.com/cris-mbici/brute_force/raw/main/brute_force_demo.mp4). This project is a **password-cracking tool** that attempts to guess a target password using two methods: 
+[Watch the demo](https://github.com/cris-mbici/brute_force/raw/main/brute_force_demo.mp4). This project is a **password-cracking tool** that attempts to guess a target password using two methods:  
 - **Dictionary Attack:** Quickly checks for common passwords from a `.csv` file.
 - **Brute Force Attack:** Systematically generates and tests all possible character combinations until the correct password is found.
 
