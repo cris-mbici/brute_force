@@ -1,4 +1,4 @@
-import string 
+import string
 import itertools
 import time
 import csv
