@@ -3,7 +3,7 @@ import itertools
 import time
 import csv
 
-while True:
+while True: 
   #User selects target password + error handling for blank input 
   while True:
     target_password = list(input("Enter a target password..."))
