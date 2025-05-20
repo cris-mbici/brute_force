@@ -9,7 +9,7 @@ while True:
     target_password = list(input("Enter a target password..."))
     if str("".join(target_password)).strip() == "":
       print("You can't leave this field blank!")
-      continue
+      continue 
     else:
       break
 
