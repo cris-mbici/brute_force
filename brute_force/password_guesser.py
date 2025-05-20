@@ -4,7 +4,7 @@ import time
 import csv
 
 while True:
-  #User selects target password + error handling for blank input
+  #User selects target password + error handling for blank input 
   while True:
     target_password = list(input("Enter a target password..."))
     if str("".join(target_password)).strip() == "":
